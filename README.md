@@ -14,7 +14,7 @@ Perkenalkan namaku Muhammad Dava Syahputra, Seorang mahasiswa UNS di prodi Pendi
 
 ## Contact
 
-- [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram)](https://www.instagram.com/yang.putraa/)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram)](https://www.instagram.com/yang.putraa/)
 
 <!--
 **Dachenxi/Dachenxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
