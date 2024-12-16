@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi there 👋
+
+## Repository
+
+- [Toko Kelontong](https://github.com/Dachenxi/TokoKelontong)
+
+## Summary
+
+- 🎓 Mahasiswa UNS Prodi PTIK (Pendidikan Teknik Informatika dan Komputer)
+- 🐍 Python dan 💻 MySql
+- 👍 Hobi Membaca Komik
+- [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram)](https://www.instagram.com/yang.putraa/)
+
+## Who Am I ? 🤔
+
+Perkenalkan namaku Muhammad Dava Syahputra, Seorang mahasiswa UNS di prodi Pendidikan Teknik Informatika dan Komputer (PTIK). Sekarang sedang belajar Python dan MySQL. Sekarang sedang fokus mengembangkan Aplikasi 'TokoKelontong' yang berbasis Python dan MySQL, Untuk sementara masih menggunakan terminal.  
 
 <!--
 **Dachenxi/Dachenxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
