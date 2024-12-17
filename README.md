@@ -9,7 +9,7 @@ Perkenalkan namaku Muhammad Dava Syahputra, Seorang mahasiswa UNS di prodi Pendi
 ## Summary
 
 - 🎓 Mahasiswa UNS Prodi PTIK (Pendidikan Teknik Informatika dan Komputer)
-- 🐍 Python dan 💻 MySql
+- 🐍 Python dan 💻 MySQL
 - 👍 Hobi Membaca Komik
 
 ## Contact
