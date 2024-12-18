@@ -15,4 +15,4 @@ Perkenalkan namaku Muhammad Dava Syahputra, Seorang mahasiswa UNS di prodi Pendi
 ## Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram)](https://www.instagram.com/yang.putraa/)
-[![Faceboook](https://img.shields.io/badge/Facebook-Me-E4405F?logo=facebook)](https://www.facebook.com/Dachenxi.Dachenxi)
+[![Faceboook](https://img.shields.io/badge/Facebook-Profile-E4405F?logo=facebook&logoColor=006eff)](https://www.facebook.com/Dachenxi.Dachenxi)
