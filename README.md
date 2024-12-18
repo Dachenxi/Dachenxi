@@ -4,7 +4,7 @@ Perkenalkan namaku Muhammad Dava Syahputra, Seorang mahasiswa UNS di prodi Pendi
 
 ## Repository
 
-- [Toko Kelontong](https://github.com/Dachenxi/TokoKelontong)
+- [![Toko Kelontong](https://img.shields.io/badge/TokoKelontong-Repo-E4405F?logo=github)](https://github.com/Dachenxi/TokoKelontong)
 
 ## Summary
 
