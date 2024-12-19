@@ -1,10 +1,10 @@
 # Who Am I ? 🤔
 
-Seorang mahasiswa UNS di prodi Pendidikan Teknik Informatika dan Komputer (PTIK). Sekarang sedang belajar Python dan MySQL. Sekarang sedang fokus mengembangkan Aplikasi 'TokoKelontong' yang berbasis Python dan MySQL, Untuk sementara masih menggunakan terminal.
+Seorang mahasiswa UNS di prodi Pendidikan Teknik Informatika dan Komputer (PTIK). Sekarang sedang belajar Python dan MySQL. Sekarang sedang fokus mengembangkan Aplikasi 'Toko Kelontong' yang berbasis Python dan MySQL, Untuk sementara masih menggunakan terminal.
 
 ## Repository
 
-- [![Toko Kelontong](https://img.shields.io/badge/TokoKelontong-Repo-E4405F?logo=github)](https://github.com/Dachenxi/TokoKelontong)
+ [![Toko Kelontong](https://img.shields.io/badge/TokoKelontong-Repo-E4405F?logo=github)](https://github.com/Dachenxi/TokoKelontong)
 
 ## Summary
 
