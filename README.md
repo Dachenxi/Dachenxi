@@ -5,6 +5,7 @@ Seorang mahasiswa UNS di prodi Pendidikan Teknik Informatika dan Komputer (PTIK)
 ## Repository
 
  [![Toko Kelontong](https://img.shields.io/badge/TokoKelontong-Repo-E4405F?logo=github)](https://github.com/Dachenxi/TokoKelontong)
+ [![Laundry WebApp](https://img.shields.io/badge/WebApp-Laundry-Repo-E4405F?logo=github)](https://github.com/Dachenxi/Website-Laundry)
 
 ## Summary
 
