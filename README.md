@@ -1,6 +1,6 @@
 # Who Am I ? 🤔
 
-Seorang mahasiswa UNS di prodi Pendidikan Teknik Informatika dan Komputer (PTIK). Sekarang sedang belajar Python dan MySQL. Sekarang sedang fokus mengembangkan Aplikasi 'Toko Kelontong' yang berbasis Python dan MySQL, Untuk sementara masih menggunakan terminal.
+Seorang mahasiswa UNS di prodi Pendidikan Teknik Informatika dan Komputer (PTIK). Tidak ada yang spesial dari sini
 
 ## Repository
 
